@@ -1,0 +1,14 @@
+.left{
+    float: left;
+    /* word-wrap: break-word; */
+    width: 39%;
+    /* height: 80px; */
+    color: #515556;
+    font-weight: 400;
+    margin-top: 3px;
+}
+.right{
+    float: right;
+    word-wrap: break-word;
+    width: 60%;
+}
